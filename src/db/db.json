@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "8ca0abf2-ab0f-4764-b6e2-eb12b7659b94",
+    "name": "Loyal Swift",
+    "phone": "1-706-725-1714 x967",
+    "email": "Karlie.Blick2@hotmail.com",
+    "job": "Human Accounts Planner"
+  },
+  {
+    "id": "5ac99066-7a31-43d0-aaf0-9f44ca57525c",
+    "name": "Rosalia Trantow",
+    "phone": "973-705-0696 x903",
+    "email": "Nya_Shields@yahoo.com",
+    "job": "Customer Branding Coordinator"
+  },
+  {
+    "id": "6a0eefc1-fa77-4d17-85a7-2e0203cbc722",
+    "name": "Micheal Nader",
+    "phone": "(810) 466-7644",
+    "email": "Desiree_Grimes@yahoo.com",
+    "job": "Chief Marketing Agent"
+  },
+  {
+    "id": "a559c748-219a-4c5c-926d-aa8a60c629a3",
+    "name": "Pete Tromp",
+    "phone": "615-788-9069 x02821",
+    "email": "Darrell24@yahoo.com",
+    "job": "Senior Factors Assistant"
+  },
+  {
+    "id": "bdd44a56-e6b7-4296-8bbd-6da061a66a5c",
+    "name": "Vicki Pfeffer",
+    "phone": "487-267-9380",
+    "email": "Jairo.Hyatt@hotmail.com",
+    "job": "Global Branding Administrator"
+  }
+]
